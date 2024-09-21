@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAHAVEER DEV</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            background-color: black;
+            overflow: hidden;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin: 0;
+            animation: fadeIn 2s infinite alternate;
+        }
+
+        footer {
+            position: absolute;
+            bottom: 20px;
+            width: 100%;
+            text-align: center;
+            font-size: 1rem;
+        }
+
+        footer a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @keyframes fadeIn {
+            0% {
+                opacity: 0.5;
+                transform: scale(1);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1.1);
+            }
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2rem;
+            }
+            footer {
+                font-size: 0.9rem;
+                bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>MAHAVEERDEV</h1>
+
+    </div>
+    <footer>
+        <p>&copy; <span id="year"></span> by MAHAVEERDEV</p>
+        <p>
+        
+        
+        </p>
+    
+    </footer>
+    <script>
+        // JavaScript to automatically update the copyright year
+        document.getElementById('year').textContent = new Date().getFullYear();
+   
+    </script>
+</body>
+</html>
