@@ -194,19 +194,8 @@
               "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2.mp3",
               "spanishText": "Bien, gracias.",
               "englishText": "Fine, thanks."
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "Complete the sentence.",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_2.webp",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2_q.mp3",
-              "question": "Bien, ______ , ¿y tú?",
-              "question_sub": "",
-              "hints": "Means- Thank you",
-              "options": ["gacias", "gracias"],
-              "correctAnswer": "gracias"
             }
+           
           ]
         }
       ]
