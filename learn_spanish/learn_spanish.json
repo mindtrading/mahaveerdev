@@ -118,6 +118,26 @@
               "hints": "",
               "options": ["True", "False"],
               "correctAnswer": "True"
+            },
+            {
+              "type": "content",
+              "title": "Look, something new!",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3.mp3",
+              "spanishText": "¿Y tú?",
+              "englishText": "And you?"
+            },
+            {
+              "type": "quiz",
+              "quizType": "mcq",
+              "title": "Complete the sentence.",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3_q.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3_q.mp3",
+              "question": "¿Y ______ ?",
+              "question_sub": "",
+              "hints": "Means- And you?",
+              "options": ["tú", "tus"],
+              "correctAnswer": "tú"
             }
           ]
         }
