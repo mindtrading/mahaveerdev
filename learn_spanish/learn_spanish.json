@@ -14,7 +14,7 @@
               "type": "content",
               "title": "Look, something new!",
               "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/say_hi.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.mp3",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.mp3",
               "spanishText": "¡Hola!",
               "englishText": "Hello!"
             },
@@ -32,10 +32,21 @@
               {
                 "type": "content",
                 "title": "Look, something new!",
-                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/say_hi.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.mp3",
+                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm.jpg",
+                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/Good_morning.ogg",
                 "spanishText": "¡Buenos días!",
                 "englishText": "Good morning!"
+              },
+              {
+                "type": "quiz",
+                "quizType": "mcq",
+                "title": "Complete the sentence.",
+                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm_q.jpg",
+                "audioUrl": "",
+                "question": "¡Buenos ______ !",
+                "hints": "Means Good morning",
+                "options": ["días", "dio"],
+                "correctAnswer": "días"
               }
 
           ]
