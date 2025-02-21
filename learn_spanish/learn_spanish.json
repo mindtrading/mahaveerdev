@@ -42,11 +42,30 @@
                 "quizType": "mcq",
                 "title": "Complete the sentence.",
                 "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm_q.jpg",
-                "audioUrl": "",
+                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gm_q.mp3",
                 "question": "¡Buenos ______ !",
                 "hints": "Means Good morning",
                 "options": ["días", "dio"],
                 "correctAnswer": "días"
+              },
+              {
+                "type": "content",
+                "title": "Look, something new!",
+                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb.jpg",
+                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb.ogg",
+                "spanishText": "¡Adiós!",
+                "englishText": "Goodbye!"
+              },
+              {
+                "type": "quiz",
+                "quizType": "word_order",
+                "title": "Complete the sentence.",
+                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb_q.jpg",
+                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb_q.mp3",
+                "question": "",
+                "hints": "Means Goodbye!",
+                "options": ["Adiós", "Ados"],
+                "correctAnswer": "Adiós"
               }
 
           ]
