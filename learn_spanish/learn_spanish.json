@@ -25,6 +25,7 @@
                 "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.jpg",
                 "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/hola_quiz.mp3",
                 "question": "¡Hola!",
+                "question_sub": "This means \"Hello\".",
                 "hints": "This means \"Hello\".",
                 "options": ["True", "False"],
                 "correctAnswer": "True"
@@ -44,6 +45,7 @@
                 "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm_q.jpg",
                 "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gm_q.mp3",
                 "question": "¡Buenos ______ !",
+                "question_sub": "",
                 "hints": "Means Good morning",
                 "options": ["días", "dio"],
                 "correctAnswer": "días"
@@ -58,11 +60,12 @@
               },
               {
                 "type": "quiz",
-                "quizType": "word_order",
+                "quizType": "mcq",
                 "title": "Complete the sentence.",
                 "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb_q.jpg",
                 "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb_q.mp3",
-                "question": "",
+                "question": "! ______ !",
+                "question_sub": "",
                 "hints": "Means Goodbye!",
                 "options": ["Adiós", "Ados"],
                 "correctAnswer": "Adiós"
@@ -74,83 +77,27 @@
           "lessonId": 2,
           "lessonTitle": "Saying your name",
           "lessonSubTitle":"Greet people and introduce yourself",
-          "lessonImg": "https://cdn.busuu.com/media-resources/image/a/pr:lesson_s/plain/s3://busuu-logos-service-media-production/media-resources/image/b557beb4-08de-43f4-b227-02a659d81afd.jpg",
+          "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l2.jpg",
           "contents": [
-  
-        {
-          "type": "quiz",
-          "quizType": "mcq",
-          "title": "Look, fill in the blank",
-          "imageUrl": "https://res.cloudinary.com/demo/w_200,h_200,c_fill/basketball_shot.jpg",
-          "audioUrl": "",
-          "question": "Aleksander ______ polaco.",
-          "hints": "ha",
-          "options": ["habla", "hablas", "dónde"],
-          "correctAnswer": "habla"
-        },
-        {
-          "type": "content",
-          "title": "Look, something new!",
-          "imageUrl": "https://cdn.busuu.com/media-resources/image/a/pr:lesson_s/plain/s3://busuu-logos-service-media-production/media-resources/image/b557beb4-08de-43f4-b227-02a659d81afd.jpg",
-          "audioUrl": "https://appsfiles.ams3.cdn.digitaloceanspaces.com/learnSpanish/Learn%20to%20speak%20a%20language%20in%2010%20minutes%20a%20day%20-%20Busuu%20(1).mp3",
-          "spanishText": "testdsfds",
-          "englishText": "Hello, how are you?"
-        },
-        {
-          "type": "quiz",
-          "quizType": "mcq",
-          "title": "True or false? (Title)",
-          "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
-          "audioUrl": "https://appsfiles.ams3.cdn.digitaloceanspaces.com/learnSpanish/Learn%20to%20speak%20a%20language%20in%2010%20minutes%20a%20day%20-%20Busuu%20(1).mp3",
-          "question": "¡Hola!",
-          "hints": "This means \"Hello\".",
-          "options": ["True", "False"],
-          "correctAnswer": "True"
-        },
-        {
-          "type": "quiz",
-          "quizType": "mcq",
-          "title": "Look, fill in the blank",
-          "imageUrl": "https://res.cloudinary.com/demo/w_200,h_200,c_fill/basketball_shot.jpg",
-          "audioUrl": "",
-          "question": "Aleksander ______ polaco. gdfg",
-          "hints": "ha",
-          "options": ["habla", "hablas", "dónde", "test"],
-          "correctAnswer": "habla"
-        },
-  
-        {
-          "type": "quiz",
-          "quizType": "word_order",
-          "title": "Put the words in order.",
-          "imageUrl": "",
-          "audioUrl": "https://appsfiles.ams3.cdn.digitaloceanspaces.com/learnSpanish/Learn%20to%20speak%20a%20language%20in%2010%20minutes%20a%20day%20-%20Busuu%20(1).mp3",
-          "question": "",
-          "hints": "Hola, cómo, estás, abhijit",
-          "options": ["estás", "Hola", "cómo", "abhijit"],
-          "correctAnswer": "Hola, cómo, estás, abhijit"
-        },
-        {
-          "type": "quiz",
-          "quizType": "fill_in_the_blank_two",
-          "title": "Select the languages in the order you hear them.",
-          "imageUrl": "https://res.cloudinary.com/demo/w_200,h_200,c_fill/basketball_shot.jpg",
-          "audioUrl": "https://appsfiles.ams3.cdn.digitaloceanspaces.com/learnSpanish/Learn%20to%20speak%20a%20language%20in%2010%20minutes%20a%20day%20-%20Busuu%20(1).mp3",
-          "question": "Sheela ___ to be a Police Officer ___ she grows up.",
-          "hints": "wants",
-          "options": ["want", "wants", "when", "where"],
-          "correctAnswer": "wants, when"
-        },
+            {
+              "type": "content",
+              "title": "Look, something new!",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1.mp3",
+              "spanishText": "¿Cómo te llamas?",
+              "englishText": "What's your name?"
+            },
             {
               "type": "quiz",
-              "quizType": "fill_in_the_blank_two",
-              "title": "Select the languages in the order you hear them.",
-              "imageUrl": "https://res.cloudinary.com/demo/w_200,h_200,c_fill/basketball_shot.jpg",
-              "audioUrl": "https://appsfiles.ams3.cdn.digitaloceanspaces.com/learnSpanish/Learn%20to%20speak%20a%20language%20in%2010%20minutes%20a%20day%20-%20Busuu%20(1).mp3",
-              "question": "Sheela ___ to be a Police Officer ___ she grows up.",
-              "hints": "wants",
-              "options": ["want", "wants", "when", "where"],
-              "correctAnswer": "wants, when"
+              "quizType": "mcq",
+              "title": "Complete the sentence.",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1_q.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1_q.mp3",
+              "question": "!¿Cómo te ______ !",
+              "question_sub": "",
+              "hints": "What's your name?",
+              "options": ["llamo", "llamas"],
+              "correctAnswer": "llamas"
             }
           ]
         }
