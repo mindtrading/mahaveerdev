@@ -163,17 +163,29 @@
         },
         {
           "lessonId": 3,
-          "lessonTitle": "¡Hola!",
-          "lessonSubTitle":"Learn some greetings",
-          "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
+          "lessonTitle": "Asking how someone is",
+          "lessonSubTitle":"Learn to ask how someone is feeling",
+          "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l3.jpg",
           "contents": [
             {
               "type": "content",
               "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
-              "spanishText": "Hola, ¿cómo estás?",
-              "englishText": "Hello, how are you?"
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1.mp3",
+              "spanishText": "¿Qué tal?",
+              "englishText": "How's it going?"
+            },
+            {
+              "type": "quiz",
+              "quizType": "mcq",
+              "title": "True or false?",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1_q.mp3",
+              "question": "¿Qué tal?",
+              "question_sub": "¿Qué tal? means \"what's your name?\". ",
+              "hints": "",
+              "options": ["True", "False"],
+              "correctAnswer": "False"
             }
           ]
         }
@@ -197,6 +209,18 @@
               "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
               "spanishText": "Hola, ¿cómo estás?",
               "englishText": "Hello, how are you?"
+            },
+            {
+              "type": "quiz",
+              "quizType": "mcq",
+              "title": "True or false?",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1_q.mp3",
+              "question": "¿Qué tal?",
+              "question_sub": "¿Qué tal? means \"what's your name?\". ",
+              "hints": "",
+              "options": ["True", "False"],
+              "correctAnswer": "False"
             }
           ]
         },
