@@ -160,22 +160,6 @@
               "correctAnswer": "llamo"
             }
           ]
-        },
-        {
-          "lessonId": 3,
-          "lessonTitle": "Asking how someone is",
-          "lessonSubTitle":"Learn to ask how someone is feeling",
-          "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l3.jpg",
-          "content": [
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1.mp3",
-              "spanishText": "¿Qué tal?",
-              "englishText": "How's it going?"
-            }
-          ]
         }
       ]
     },
