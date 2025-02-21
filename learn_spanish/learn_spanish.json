@@ -93,11 +93,31 @@
               "title": "Complete the sentence.",
               "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1_q.jpg",
               "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1_q.mp3",
-              "question": "!¿Cómo te ______ !",
+              "question": "¿Cómo te ______ ?",
               "question_sub": "",
               "hints": "What's your name?",
               "options": ["llamo", "llamas"],
               "correctAnswer": "llamas"
+            },
+            {
+              "type": "content",
+              "title": "Look, something new!",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c2.mp3",
+              "spanishText": "Me llamo Marta.",
+              "englishText": "My name is Marta."
+            },
+            {
+              "type": "quiz",
+              "quizType": "mcq",
+              "title": "True or false?",
+              "imageUrl": "",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c2_q.mp3",
+              "question": "Me llamo Marta.",
+              "question_sub": "Me llamo... This means \"my name is...\". ",
+              "hints": "",
+              "options": ["True", "False"],
+              "correctAnswer": "True"
             }
           ]
         }
