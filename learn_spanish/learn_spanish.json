@@ -138,6 +138,26 @@
               "hints": "Means- And you?",
               "options": ["tú", "tus"],
               "correctAnswer": "tú"
+            },
+            {
+              "type": "content",
+              "title": "Look, something new!",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c4.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4.mp3",
+              "spanishText": "Me llamo David.",
+              "englishText": "My name is David."
+            },
+            {
+              "type": "quiz",
+              "quizType": "mcq",
+              "title": "Complete the sentence.",
+              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
+              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4_q.mp3",
+              "question": "Me ______ David.",
+              "question_sub": "",
+              "hints": "Means- My name is David.",
+              "options": ["llamo", "llamas"],
+              "correctAnswer": "llamo"
             }
           ]
         }
