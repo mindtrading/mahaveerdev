@@ -1,321 +1,337 @@
 [
-    {
-      "chapterId": 1,
-      "chapterTitle": "Chapter 1",
-      "chapterSubTitle": "Introductions",
-      "lessons": [
-        {
-          "lessonId": 1,
-          "lessonTitle": "¡Hola!",
-          "lessonSubTitle":"Learn some greetings",
-          "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l1.jpg",
-          "contents": [
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/say_hi.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.mp3",
-              "spanishText": "¡Hola!",
-              "englishText": "Hello!"
-            },
-            {
-                "type": "quiz",
-                "quizType": "mcq",
-                "title": "True or false?",
-                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.jpg",
-                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/hola_quiz.mp3",
-                "question": "¡Hola!",
-                "question_sub": "This means \"Hello\".",
-                "hints": "This means \"Hello\".",
-                "options": ["True", "False"],
-                "correctAnswer": "True"
-              },
-              {
-                "type": "content",
-                "title": "Look, something new!",
-                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm.jpg",
-                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/Good_morning.ogg",
-                "spanishText": "¡Buenos días!",
-                "englishText": "Good morning!"
-              },
-              {
-                "type": "quiz",
-                "quizType": "mcq",
-                "title": "Complete the sentence.",
-                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm_q.jpg",
-                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gm_q.mp3",
-                "question": "¡Buenos ______ !",
-                "question_sub": "",
-                "hints": "Means Good morning",
-                "options": ["días", "dio"],
-                "correctAnswer": "días"
-              },
-              {
-                "type": "content",
-                "title": "Look, something new!",
-                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb.jpg",
-                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb.ogg",
-                "spanishText": "¡Adiós!",
-                "englishText": "Goodbye!"
-              },
-              {
-                "type": "quiz",
-                "quizType": "mcq",
-                "title": "Complete the sentence.",
-                "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb_q.jpg",
-                "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb_q.mp3",
-                "question": "! ______ !",
-                "question_sub": "",
-                "hints": "Means Goodbye!",
-                "options": ["Adiós", "Ados"],
-                "correctAnswer": "Adiós"
-              }
+  {
+    "chapterId": 1,
+    "chapterTitle": "Chapter 1",
+    "chapterSubTitle": "Introductions",
+    "lessons": [
+      {
+        "lessonId": 1,
+        "lessonTitle": "¡Hola!",
+        "lessonSubTitle":"Learn some greetings",
+        "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l1.jpg",
+        "contents": [
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/say_hi.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.mp3",
+            "spanishText": "¡Hola!",
+            "englishText": "Hello!"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "True or false?",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/hola_quiz.mp3",
+            "question": "¡Hola!",
+            "question_sub": "This means \"Hello\".",
+            "hints": "This means \"Hello\".",
+            "options": ["True", "False"],
+            "correctAnswer": "True"
+          },
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/Good_morning.ogg",
+            "spanishText": "¡Buenos días!",
+            "englishText": "Good morning!"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm_q.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gm_q.mp3",
+            "question": "¡Buenos ______ !",
+            "question_sub": "",
+            "hints": "Means Good morning",
+            "options": ["días", "dio"],
+            "correctAnswer": "días"
+          },
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb.ogg",
+            "spanishText": "¡Adiós!",
+            "englishText": "Goodbye!"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb_q.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb_q.mp3",
+            "question": "! ______ !",
+            "question_sub": "",
+            "hints": "Means Goodbye!",
+            "options": ["Adiós", "Ados"],
+            "correctAnswer": "Adiós"
+          }
 
-          ]
-        },
-        {
-          "lessonId": 2,
-          "lessonTitle": "Saying your name",
-          "lessonSubTitle":"Greet people and introduce yourself",
-          "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l2.jpg",
-          "contents": [
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1.mp3",
-              "spanishText": "¿Cómo te llamas?",
-              "englishText": "What's your name?"
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "Complete the sentence.",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1_q.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1_q.mp3",
-              "question": "¿Cómo te ______ ?",
-              "question_sub": "",
-              "hints": "What's your name?",
-              "options": ["llamo", "llamas"],
-              "correctAnswer": "llamas"
-            },
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c2.mp3",
-              "spanishText": "Me llamo Marta.",
-              "englishText": "My name is Marta."
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "True or false?",
-              "imageUrl": "",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c2_q.mp3",
-              "question": "Me llamo Marta.",
-              "question_sub": "Me llamo... This means \"my name is...\". ",
-              "hints": "",
-              "options": ["True", "False"],
-              "correctAnswer": "True"
-            },
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3.mp3",
-              "spanishText": "¿Y tú?",
-              "englishText": "And you?"
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "Complete the sentence.",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3_q.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3_q.mp3",
-              "question": "¿Y ______ ?",
-              "question_sub": "",
-              "hints": "Means- And you?",
-              "options": ["tú", "tus"],
-              "correctAnswer": "tú"
-            },
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c4.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4.mp3",
-              "spanishText": "Me llamo David.",
-              "englishText": "My name is David."
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "Complete the sentence.",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4_q.mp3",
-              "question": "Me ______ David.",
-              "question_sub": "",
-              "hints": "Means- My name is David.",
-              "options": ["llamo", "llamas"],
-              "correctAnswer": "llamo"
-            }
-          ]
-        },
-        {
-          "lessonId": 3,
-          "lessonTitle": "Asking how someone is",
-          "lessonSubTitle":"Learn to ask how someone is feeling",
-          "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l3.jpg",
-          "contents": [
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1.mp3",
-              "spanishText": "¿Qué tal?",
-              "englishText": "How's it going?"
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "True or false?",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1_q.mp3",
-              "question": "¿Qué tal?",
-              "question_sub": "¿Qué tal? means \"what's your name?\". ",
-              "hints": "",
-              "options": ["True", "False"],
-              "correctAnswer": "False"
-            },
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_1.webp",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2.mp3",
-              "spanishText": "Bien, gracias.",
-              "englishText": "Fine, thanks."
-            }
-           
-          ]
-        }
-      ]
-    },
-    {
-      "chapterId": 2,
-      "chapterTitle": "Chapter 2",
-      "chapterSubTitle": "Introductions",
-      "lessons": [
-        {
-          "lessonId": 1,
-          "lessonTitle": "¡Hola!",
-          "lessonSubTitle":"Learn some greetings",
-          "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
-          "contents": [
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
-              "spanishText": "Hola, ¿cómo estás?",
-              "englishText": "Hello, how are you?"
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "True or false?",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1_q.mp3",
-              "question": "¿Qué tal?",
-              "question_sub": "¿Qué tal? means \"what's your name?\". ",
-              "hints": "",
-              "options": ["True", "False"],
-              "correctAnswer": "False"
-            }
-          ]
-        },
-        {
-          "lessonId": 2,
-          "lessonTitle": "Asking how someone is",
-          "lessonSubTitle":"Learn to ask how someone is feeling",
-          "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l3.jpg",
-          "content": [
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1.mp3",
-              "spanishText": "¿Qué tal?",
-              "englishText": "How's it going?"
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "True or false?",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.jpg",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1_q.mp3",
-              "question": "¿Qué tal?",
-              "question_sub": "¿Qué tal? means \"what's your name?\". ",
-              "hints": "",
-              "options": ["True", "False"],
-              "correctAnswer": "False"
-            },
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_1.webp",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2.mp3",
-              "spanishText": "Bien, gracias.",
-              "englishText": "Fine, thanks."
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "Complete the sentence.",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_2.webp",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2_q.mp3",
-              "question": "Bien, ______ , ¿y tú?",
-              "question_sub": "",
-              "hints": "Means- Thank you",
-              "options": ["gacias", "gracias"],
-              "correctAnswer": "gracias"
-            },
-            {
-              "type": "content",
-              "title": "Look, something new!",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_2.webp",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3.mp3",
-              "spanishText": "Muy bien.",
-              "englishText": "Very well."
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "Complete the sentence.",
-              "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
-              "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
-              "question": " ______  bien, ¿y tú?",
-              "question_sub": "",
-              "hints": "Means- Very",
-              "options": ["Muy", "Más"],
-              "correctAnswer": "Muy"
-            },
-            {
-              "type": "quiz",
-              "quizType": "mcq",
-              "title": "Complete the sentence.",
-              "imageUrl": "",
-              "audioUrl": "",
-              "question": "Choose the answer to the question: \"¿Qué tal?\"",
-              "question_sub": "",
-              "hints": "The question is \"how are you?\". ",
-              "options": ["Me llamo Carlos.", "Gracias.", "Muy bien."],
-              "correctAnswer": "Muy bien."
-            }
-          ]
-        }
-  
-      ]
-    }
-  ]
-  
-  
+        ]
+      },
+      {
+        "lessonId": 2,
+        "lessonTitle": "Saying your name",
+        "lessonSubTitle":"Greet people and introduce yourself",
+        "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l2.jpg",
+        "contents": [
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1.mp3",
+            "spanishText": "¿Cómo te llamas?",
+            "englishText": "What's your name?"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1_q.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1_q.mp3",
+            "question": "¿Cómo te ______ ?",
+            "question_sub": "",
+            "hints": "What's your name?",
+            "options": ["llamo", "llamas"],
+            "correctAnswer": "llamas"
+          },
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c2.mp3",
+            "spanishText": "Me llamo Marta.",
+            "englishText": "My name is Marta."
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "True or false?",
+            "imageUrl": "",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c2_q.mp3",
+            "question": "Me llamo Marta.",
+            "question_sub": "Me llamo... This means \"my name is...\". ",
+            "hints": "",
+            "options": ["True", "False"],
+            "correctAnswer": "True"
+          },
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3.mp3",
+            "spanishText": "¿Y tú?",
+            "englishText": "And you?"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3_q.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3_q.mp3",
+            "question": "¿Y ______ ?",
+            "question_sub": "",
+            "hints": "Means- And you?",
+            "options": ["tú", "tus"],
+            "correctAnswer": "tú"
+          },
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c4.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4.mp3",
+            "spanishText": "Me llamo David.",
+            "englishText": "My name is David."
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4_q.mp3",
+            "question": "Me ______ David.",
+            "question_sub": "",
+            "hints": "Means- My name is David.",
+            "options": ["llamo", "llamas"],
+            "correctAnswer": "llamo"
+          }
+        ]
+      },
+      {
+        "lessonId": 3,
+        "lessonTitle": "Asking how someone is",
+        "lessonSubTitle":"Learn to ask how someone is feeling",
+        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l3.jpg",
+        "contents": [
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1.mp3",
+            "spanishText": "¿Qué tal?",
+            "englishText": "How's it going?"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "True or false?",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1_q.mp3",
+            "question": "¿Qué tal?",
+            "question_sub": "¿Qué tal? means \"what's your name?\". ",
+            "hints": "",
+            "options": ["True", "False"],
+            "correctAnswer": "False"
+          },
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_1.webp",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2.mp3",
+            "spanishText": "Bien, gracias.",
+            "englishText": "Fine, thanks."
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_2.webp",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2_q.mp3",
+            "question": "Bien, ______  ¿y tú?.",
+            "question_sub": "",
+            "hints": "Means- Thank you",
+            "options": ["gacias", "gracias"],
+            "correctAnswer": "gracias"
+          },
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_2.webp",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3.mp3",
+            "spanishText": "Muy bien.",
+            "englishText": "Very well."
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
+            "question": " ______  bien, ¿y tú?",
+            "question_sub": "",
+            "hints": "Means- Very",
+            "options": ["Muy", "Más"],
+            "correctAnswer": "Muy"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "",
+            "audioUrl": "",
+            "question": "Choose the answer to the question: \"¿Qué tal?\"",
+            "question_sub": "",
+            "hints": "The question is \"how are you?\". ",
+            "options": ["Me llamo Carlos.", "Gracias.", "Muy bien."],
+            "correctAnswer": "Muy bien."
+          }
+        ]
+      },
+      {
+        "lessonId": 4,
+        "lessonTitle": "Developing fluency",
+        "lessonSubTitle":"Learn to ask how someone is feeling",
+        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l3.jpg",
+        "contents": [
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1.mp3",
+            "question": "¿ ______  tal?",
+            "question_sub": "",
+            "hints": "How's it going?",
+            "options": ["Qué", "Cómo"],
+            "correctAnswer": "Qué"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Choose the answer to the question: \"¿Qué tal?\".",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l4c2_q.mp3",
+            "question": " ______ ",
+            "question_sub": "",
+            "hints": "Fine, thanks.",
+            "options": ["Me llamo Alberto.", "Bien, gracias."],
+            "correctAnswer": "Bien, gracias."
+          },
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_2.webp",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3.mp3",
+            "spanishText": "Muy bien.",
+            "englishText": "Very well."
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
+            "question": " ______  bien, ¿y tú?",
+            "question_sub": "",
+            "hints": "Means- Very",
+            "options": ["Muy", "Más"],
+            "correctAnswer": "Muy"
+          },
+          {
+            "type": "quiz",
+            "quizType": "mcq",
+            "title": "Complete the sentence.",
+            "imageUrl": "",
+            "audioUrl": "",
+            "question": "Choose the answer to the question: \"¿Qué tal?\"",
+            "question_sub": "",
+            "hints": "The question is \"how are you?\". ",
+            "options": ["Me llamo Carlos.", "Gracias.", "Muy bien."],
+            "correctAnswer": "Muy bien."
+          }
+
+
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": 2,
+    "chapterTitle": "Chapter 2",
+    "chapterSubTitle": "Introductions",
+    "lessons": [
+      {
+        "lessonId": 1,
+        "lessonTitle": "¡Hola!",
+        "lessonSubTitle":"Learn some greetings",
+        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
+        "contents": [
+          {
+            "type": "content",
+            "title": "Look, something new!",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
+            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
+            "spanishText": "Hola, ¿cómo estás?",
+            "englishText": "Hello, how are you?"
+          }
+        ]
+      }
+
+    ]
+  }
+]
+
