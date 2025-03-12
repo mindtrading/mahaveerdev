@@ -8,13 +8,13 @@
         "lessonId": 1,
         "lessonTitle": "¡Hola!",
         "lessonSubTitle":"Learn some greetings",
-        "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l1.jpg",
+        "lessonImg": "les1.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/say_hi.jpg",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/hola.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/say_hi.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/294.mp3",
             "spanishText": "¡Hola!",
             "englishText": "Hello!"
           },
@@ -22,7 +22,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.jpg",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/hola.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/hola_n.mp3",
             "question": "¡Hola!",
             "questionSub": "This means \"Hello\".",
@@ -33,8 +33,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/Good_morning.ogg",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/295.mp3",
             "spanishText": "¡Buenos días!",
             "englishText": "Good morning!"
           },
@@ -42,8 +42,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm_q.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gm_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_6.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/296.mp3",
             "question": "¡Buenos ______ !",
             "questionSub": "",
             "hints": "Means Good morning",
@@ -53,8 +53,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb.ogg",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/293.mp3",
             "spanishText": "¡Adiós!",
             "englishText": "Goodbye!"
           },
@@ -62,8 +62,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb_q.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gb_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gb_q.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/297.mp3",
             "question": "! ______ !",
             "questionSub": "",
             "hints": "Means Goodbye!",
@@ -77,13 +77,13 @@
         "lessonId": 2,
         "lessonTitle": "Saying your name",
         "lessonSubTitle":"Greet people and introduce yourself",
-        "lessonImg": "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l2.jpg",
+        "lessonImg": "les2.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/298.mp3",
             "spanishText": "¿Cómo te llamas?",
             "englishText": "What's your name?"
           },
@@ -91,8 +91,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_15.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_15.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/299.mp3",
             "question": "¿Cómo te ______ ?",
             "questionSub": "",
             "hints": "What's your name?",
@@ -102,8 +102,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/300.mp3",
             "spanishText": "Me llamo Marta.",
             "englishText": "My name is Marta."
           },
@@ -112,7 +112,7 @@
             "quizType": "mcq",
             "title": "True or false?",
             "imageUrl": "",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c2_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/301.mp3",
             "question": "Me llamo Marta.",
             "questionSub": "Me llamo... This means \"my name is...\". ",
             "hints": "",
@@ -122,8 +122,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/302.mp3",
             "spanishText": "¿Y tú?",
             "englishText": "And you?"
           },
@@ -131,8 +131,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3_q.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3_q.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/303.mp3",
             "question": "¿Y ______ ?",
             "questionSub": "",
             "hints": "Means- And you?",
@@ -142,8 +142,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c4.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/couple6.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/304.mp3",
             "spanishText": "Me llamo David.",
             "englishText": "My name is David."
           },
@@ -151,8 +151,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/305.mp3",
             "question": "Me ______ David.",
             "questionSub": "",
             "hints": "Means- My name is David.",
@@ -165,13 +165,13 @@
         "lessonId": 3,
         "lessonTitle": "Asking how someone is",
         "lessonSubTitle":"Learn to ask how someone is feeling",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l3.jpg",
+        "lessonImg" : "les3.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/306.mp3",
             "spanishText": "¿Qué tal?",
             "englishText": "How's it going?"
           },
@@ -179,8 +179,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/307.mp3",
             "question": "¿Qué tal?",
             "questionSub": "¿Qué tal? means \"what's your name?\". ",
             "hints": "",
@@ -190,8 +190,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_1.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_1.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/308.mp3",
             "spanishText": "Bien, gracias.",
             "englishText": "Fine, thanks."
           },
@@ -199,8 +199,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_2.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c2_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_2.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/309.mp3",
             "question": "Bien, ______  ¿y tú?.",
             "questionSub": "",
             "hints": "Means- Thank you",
@@ -210,8 +210,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_2.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_2.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/310.mp3",
             "spanishText": "Muy bien.",
             "englishText": "Very well."
           },
@@ -219,8 +219,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_3.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/311.mp3",
             "question": " ______  bien, ¿y tú?",
             "questionSub": "",
             "hints": "Means- Very",
@@ -245,14 +245,14 @@
         "lessonId": 4,
         "lessonTitle": "Developing fluency",
         "lessonSubTitle":"Learn to ask how someone is feeling",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l3.jpg",
+        "lessonImg" : "les4.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c2.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/306.mp3",
             "question": "¿ ______  tal?",
             "questionSub": "",
             "hints": "How's it going?",
@@ -263,8 +263,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Choose the answer to the question: \"¿Qué tal?\".",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l4c2_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/308.mp3",
             "question": "",
             "questionSub": "",
             "hints": "Fine, thanks.",
@@ -275,8 +275,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_4.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l4c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_4.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/312.mp3",
             "question": "Me llamo Carmen, ¿y tú cómo te llamas?",
             "questionSub": "Carmen is asking the other person for their name.",
             "hints": "Carmen introduces herself and then asks the other person what their name is.",
@@ -287,8 +287,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/313.mp3",
             "question": "¿  ______  te llamas?",
             "questionSub": "",
             "hints": "Means- What's your name?",
@@ -299,8 +299,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l4c5_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/314.mp3",
             "question": "",
             "questionSub": "",
             "hints": "What's your name? ",
@@ -314,14 +314,14 @@
         "lessonId": 5,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm_q.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/gm_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/gm_q.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/296.mp3",
             "question": "¡Buenos ______ !",
             "questionSub": "",
             "hints": "Means Good morning",
@@ -332,8 +332,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3_q.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c3_q.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/303.mp3",
             "question": "¿Y ______ ?",
             "questionSub": "",
             "hints": "Means- And you?",
@@ -344,8 +344,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l2c4_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l2c1.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/305.mp3",
             "question": "Me ______ David.",
             "questionSub": "",
             "hints": "Means- My name is David.",
@@ -356,8 +356,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.jpg",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/l3c1_q.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/307.mp3",
             "question": "¿Qué tal?",
             "questionSub": "¿Qué tal? means \"what's your name?\". ",
             "hints": "",
@@ -368,8 +368,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l3c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_3.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/311.mp3",
             "question": " ______  bien, ¿y tú?",
             "questionSub": "",
             "hints": "Means- Very",
@@ -380,8 +380,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Choose the answer to the question: \"¿Qué tal?\".",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l4c2_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/308.mp3",
             "question": "",
             "questionSub": "",
             "hints": "Fine, thanks.",
@@ -392,8 +392,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/l4c5_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/314.mp3",
             "question": "",
             "questionSub": "",
             "hints": "What's your name? ",
@@ -414,13 +414,13 @@
         "lessonId": 1,
         "lessonTitle": "Saying your nationality",
         "lessonSubTitle":"Learn some nationalities",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l6.jpg",
+        "lessonImg" : "les6.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_5.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_5.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev//315.mp3",
             "spanishText": "¿De dónde eres?",
             "englishText": "Where are you from?"
           },
@@ -428,8 +428,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_6.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_6.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/316.mp3",
             "question": "¿De dónde eres?",
             "questionSub": "\"¿De dónde eres?\" means \"where are you from?\"",
             "hints": "\"¿De dónde eres?\" means: Where are you from?",
@@ -440,8 +440,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_5.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_5.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/317.mp3",
             "question": "¿De  ______  eres?",
             "questionSub": "",
             "hints": "Where are you from?",
@@ -451,8 +451,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/318.mp3",
             "spanishText": "Soy de España.",
             "englishText": "I'm from Spain."
           },
@@ -460,8 +460,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/318.mp3",
             "question": "Soy  ______  España.",
             "questionSub": "",
             "hints": "I'm from Spain.",
@@ -471,8 +471,8 @@
           {
             "type": "content",
             "title": "Here's a tip!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/319.mp3",
             "spanishText": "Have you noticed how we write Spain in Spanish? España! Yes, with the \"ñ\". That's a letter that is only used in Spanish and some indigenous languages in Latin America.",
             "englishText": "Soy de España. (I'm from Spain.)"
           },
@@ -480,8 +480,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_7.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c4_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/320.mp3",
             "question": "",
             "questionSub": "",
             "hints": "I'm from the US.",
@@ -493,7 +493,7 @@
             "quizType": "mcq",
             "title": "True or false?",
             "imageUrl": "",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c4_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/321.mp3",
             "question": "Soy de Estados Unidos.",
             "questionSub": "\"Soy de...\" means \"I'm from...\"",
             "hints": "We use \"soy de\" + country to say where we are from.",
@@ -505,7 +505,7 @@
             "quizType": "mcq",
             "title": "Where is David from? Listen and choose what you hear.",
             "imageUrl": "",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c5_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/322.mp3",
             "question": "",
             "questionSub": "",
             "hints": "I'm from the United States.",
@@ -518,13 +518,13 @@
         "lessonId": 2,
         "lessonTitle": "Describing where you are from",
         "lessonSubTitle":"Learn to say which country you are from",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l7.jpg",
+        "lessonImg" : "les7.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/323.mp3",
             "spanishText": "Yo soy de España.",
             "englishText": "I'm from Spain."
           },
@@ -532,8 +532,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_9.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_9.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/324.mp3",
             "question": "Yo soy de España.",
             "questionSub": "\"Yo soy de España\" means \"I'm from Spain\".",
             "hints": "He's talking about himself because he's using \"yo soy\".",
@@ -544,8 +544,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/325.mp3",
             "question": "Yo  ______  de España.",
             "questionSub": "",
             "hints": "I'm from Spain.",
@@ -555,8 +555,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_10.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_10.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/326.mp3",
             "spanishText": "Tú eres de Inglaterra.",
             "englishText": "You're from England."
           },
@@ -564,8 +564,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_9.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c2_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_9.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/327.mp3",
             "question": "¿Tú  ______  de Estados Unidos o de Inglaterra?",
             "questionSub": "",
             "hints": "Are you from England or from the US?",
@@ -575,8 +575,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/328.mp3",
             "spanishText": "Él es de Argentina.",
             "englishText": "He's from Argentina."
           },
@@ -584,8 +584,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_11.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_11.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/329.mp3",
             "question": "Él  ______  de Argentina.",
             "questionSub": "",
             "hints": "He's from Argentina.",
@@ -607,8 +607,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_11.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c4.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_11.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/330.mp3",
             "spanishText": "Ella es Ana.",
             "englishText": "She is Ana."
           },
@@ -616,8 +616,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_12.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c4_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_12.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/331.mp3",
             "question": "Ella es de Estados Unidos.",
             "questionSub": "\"Ella es\" means \"he is\".",
             "hints": "Juan says \"ella es\", which is how we refer to a woman.",
@@ -628,8 +628,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "choose the correct answer",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c5.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/325.mp3",
             "question": "Listen to the audio and select the person it's talking about.",
             "questionSub": "",
             "hints": "The audio says \"soy\", which is the form I use to talk about myself",
@@ -640,8 +640,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_13.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c5_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_13.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/332.mp3",
             "question": "Tú  ______  de Inglaterra.",
             "questionSub": "",
             "hints": "The correct form for \"tú\" is \"eres\".",
@@ -652,8 +652,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_13.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c6_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_13.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/333.mp3",
             "question": "Yo soy de España.",
             "questionSub": "\"Yo soy de España\" means \"I'm from Spain\".",
             "hints": "He's talking about himself because he's using \"yo soy\".",
@@ -676,8 +676,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_14.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c7_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_14.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/334.mp3",
             "question": "Ella es de Estados Unidos.",
             "questionSub": "\"Ella es\" means \"he is\".",
             "hints": "Juan says \"ella es\", which is how we refer to a woman.",
@@ -690,13 +690,13 @@
         "lessonId": 3,
         "lessonTitle": "Talking about where you live",
         "lessonSubTitle":"Learn how to talk about where you live",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l8.jpg",
+        "lessonImg" : "les8.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_14.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_14.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/335.mp3",
             "spanishText": "¿Dónde vives?",
             "englishText": "Where do you live?"
           },
@@ -704,8 +704,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_15.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_15.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/336.mp3",
             "question": "¿Dónde vives?",
             "questionSub": "Lucía is asking someone where they live.",
             "hints": "Where do you live?",
@@ -716,8 +716,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_1.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_1.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/335.mp3",
             "question": "¿  ______  vives?",
             "questionSub": "",
             "hints": " is the word we use to ask where a place is.",
@@ -727,8 +727,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_2.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_2.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/337.mp3",
             "spanishText": "Vivo en Madrid.",
             "englishText": "I live in Madrid."
           },
@@ -736,8 +736,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_3.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/338.mp3",
             "question": "Vivo  ______  Madrid.",
             "questionSub": "",
             "hints": "We use \"en\" to specify where we live",
@@ -748,8 +748,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_4.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c3_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_4.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/339.mp3",
             "question": "Soy de Barcelona y vivo en Madrid.",
             "questionSub": "Sergio lives in the same city he's from.",
             "hints": "He says he's from Barcelona but lives in Madrid.",
@@ -760,7 +760,7 @@
             "type": "content",
             "title": "Here's a tip!",
             "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/couple.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c4.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/340.mp3",
             "spanishText": "Remember that we use different phrases to talk about where we are from, and where we live.",
             "englishText": "¿Dónde vives? (Where do you live?) Vivo en... (I live in...) \uD83C\uDFE0 \n\n ¿De dónde eres? (Where are you from?) Soy de... (I am from...) \uD83C\uDF7C"
           },
@@ -768,8 +768,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_15.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c4_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_15.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/341.mp3",
             "question": "",
             "questionSub": "",
             "hints": "I live in London.",
@@ -794,14 +794,14 @@
         "lessonId": 4,
         "lessonTitle": "Developing fluency",
         "lessonSubTitle":"Review of recent lessons",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/l9.jpg",
+        "lessonImg" : "les9.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "fill_in_the_blank_two",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_5.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l4c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_5.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/342.mp3",
             "question": "Soy  ______  Londres pero vivo  ______  Madrid.",
             "questionSub": "",
             "hints": "I'm from London but I live in Madrid.",
@@ -812,8 +812,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l4c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/343.mp3",
             "question": "",
             "questionSub": "",
             "hints": "I'm from London but I live in Madrid.",
@@ -824,8 +824,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l4c1_q3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/344.mp3",
             "question": "Yo ______ de Inglaterra.",
             "questionSub": "",
             "hints": "I'm from England.",
@@ -836,8 +836,8 @@
             "type": "quiz",
             "quizType": "fill_in_the_blank_two",
             "title": "Complete the sentence to say that Peter is from England.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_5.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l4c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_5.webp",
+            "audioUrl": "",
             "question": "  ______   ______  Inglaterra.",
             "questionSub": "",
             "hints": "I'm from England.",
@@ -850,14 +850,14 @@
         "lessonId": 5,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_6.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_6.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/316.mp3",
             "question": "¿De dónde eres?",
             "questionSub": "\"¿De dónde eres?\" means \"where are you from?\"",
             "hints": "\"¿De dónde eres?\" means: Where are you from?",
@@ -868,8 +868,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/318.mp3",
             "question": "Soy  ______  España.",
             "questionSub": "",
             "hints": "I'm from Spain.",
@@ -881,7 +881,7 @@
             "quizType": "mcq",
             "title": "True or false?",
             "imageUrl": "",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l1c4_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/321.mp3",
             "question": "Soy de Estados Unidos.",
             "questionSub": "\"Soy de...\" means \"I'm from...\"",
             "hints": "We use \"soy de\" + country to say where we are from.",
@@ -892,8 +892,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/325.mp3",
             "question": "Yo  ______  de España.",
             "questionSub": "",
             "hints": "I'm from Spain.",
@@ -904,8 +904,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_12.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c4_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_12.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/331.mp3",
             "question": "Ella es de Estados Unidos.",
             "questionSub": "\"Ella es\" means \"he is\".",
             "hints": "Juan says \"ella es\", which is how we refer to a woman.",
@@ -916,8 +916,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_13.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l2c6_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_13.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/333.mp3",
             "question": "Yo soy de España.",
             "questionSub": "\"Yo soy de España\" means \"I'm from Spain\".",
             "hints": "He's talking about himself because he's using \"yo soy\".",
@@ -928,8 +928,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_3.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_3.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/338.mp3",
             "question": "Vivo  ______  Madrid.",
             "questionSub": "",
             "hints": "We use \"en\" to specify where we live",
@@ -940,8 +940,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_15.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l3c4_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_15.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/341.mp3",
             "question": "",
             "questionSub": "",
             "hints": "I live in London.",
@@ -952,8 +952,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l4c1_q3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/344.mp3",
             "question": "Yo ______ de Inglaterra.",
             "questionSub": "",
             "hints": "I'm from England.",
@@ -964,8 +964,8 @@
             "type": "quiz",
             "quizType": "fill_in_the_blank_two",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_5.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c2l4c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_5.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/342.mp3",
             "question": "Soy  ______  Londres pero vivo  ______  Madrid.",
             "questionSub": "",
             "hints": "I'm from London but I live in Madrid.",
@@ -986,13 +986,13 @@
         "lessonId": 1,
         "lessonTitle": "Choosing between \"tú\" and \"usted\"",
         "lessonSubTitle":"Learn how to address people in different contexts",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les10.webp",
+        "lessonImg" : "les10.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_6.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_6.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/345.mp3",
             "spanishText": "Tú",
             "englishText": "you (singular informal) \n\n\nExample\n\nMe llamo Álvaro, ¿y tú?\n\nMy name is Álvaro, and you?"
           },
@@ -1000,8 +1000,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_16.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_16.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/346.mp3",
             "question": "Me llamo Álvaro, ¿y tú?",
             "questionSub": "By using \"¿y tú?\", Álvaro is addressing someone else.",
             "hints": "Álvaro is addressing someone else with the question: \"¿y tú?\"",
@@ -1012,8 +1012,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_16.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_16.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/347.mp3",
             "question": " ______  eres María.",
             "questionSub": "",
             "hints": "The word for \"you\" is \"tú\".",
@@ -1032,8 +1032,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_17.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c1_q3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_17.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/348.mp3",
             "question": "Vivo en Málaga, ¿y  ______ ",
             "questionSub": "",
             "hints": "I live in Málaga, and you?",
@@ -1043,8 +1043,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_17.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_17.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/349.mp3",
             "spanishText": "usted",
             "englishText": "you (singular formal) \n\nExample\nMe llamo Susana, ¿y usted?\nMy name is Susana, and you?"
           },
@@ -1052,8 +1052,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_18.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c2_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_18.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/350.mp3",
             "question": "Yo vivo en Madrid, ¿y  ______  ?",
             "questionSub": "",
             "hints": "I live in Madrid, and you?",
@@ -1073,7 +1073,7 @@
             "quizType": "mcq",
             "title": "choose the correct answer",
             "imageUrl": "",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c2_q2.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/351.mp3",
             "question": "Listen to the audio and choose the most appropriate situation.",
             "questionSub": "",
             "hints": "This is a formal situation.",
@@ -1099,13 +1099,13 @@
         "lessonId": 2,
         "lessonTitle": "Speaking formally",
         "lessonSubTitle":"Learn how to speak formally",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les11.webp",
+        "lessonImg" : "les11.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_19.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l2c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_19.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/352.mp3",
             "spanishText": "¿Cómo se llama?",
             "englishText": "What's your name?\n\nExample \nBuenos días, ¿cómo se llama?\nGood morning, what's your name?"
           },
@@ -1125,8 +1125,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_18.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l2c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_18.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/353.mp3",
             "question": "",
             "questionSub": "",
             "hints": "And what's your name?",
@@ -1136,8 +1136,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_20.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l2c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_20.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/354.mp3",
             "spanishText": "¿De dónde es?",
             "englishText": "Where are you from?\n\nExample \nSoy de Estados Unidos, ¿y usted? ¿De dónde es?\nI'm from the US, and you? Where are you from?"
           },
@@ -1145,8 +1145,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_21.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l2c2_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_21.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/355.mp3",
             "question": "Soy de Estados Unidos, ¿y usted? ¿De dónde  ______  ?",
             "questionSub": "",
             "hints": "I'm from the US, and you? Where are you from?",
@@ -1168,8 +1168,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_19.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l2c3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_19.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/356.mp3",
             "spanishText": "¿Dónde vive?",
             "englishText": "Where do you live?\n\nExample \nVivo en Barcelona, ¿y usted? ¿Dónde vive?\nI live in Barcelona, and you? Where do you live?"
           },
@@ -1177,8 +1177,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_21.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l2c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_21.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/357.mp3",
             "question": "Vivo en Barcelona, ¿y usted? ¿Dónde vive?",
             "questionSub": "Silvia's asking someone she has a close relationship with.",
             "hints": "She's using \"usted\" so she's in a very formal situation.",
@@ -1191,13 +1191,13 @@
         "lessonId": 3,
         "lessonTitle": "Following a basic interaction",
         "lessonSubTitle":"Improve your listening skills by following a audio",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les12.webp",
+        "lessonImg" : "les12.webp",
         "contents": [
           {
             "type": "content",
             "title": "Listen to the audio carefully..",
             "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/couple.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l3c1.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/358.mp3",
             "spanishText": "María: ¡Hola, buenos días! ¿Qué tal?\nPeter: Buenos días, yo muy bien, ¿y usted?\nMaría: Muy bien, gracias. Me llamo María, ¿y usted?\nPeter: Yo soy Peter.\nMaría: ¡Ah! ¿De dónde es, Peter? Yo soy de España.\nPeter: Yo soy de Inglaterra, pero vivo en Madrid, ¿y usted?\nMaría: ¡Ah! Yo también vivo en Madrid, pero soy de Barcelona.\nPeter: Madrid es una ciudad fantástica, ¿eh?\nMaría: Sí, ¡Madrid es fantástica!",
             "englishText": ""
           },
@@ -1205,8 +1205,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_21.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l3c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_21.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/359.mp3",
             "question": "Soy Peter.",
             "questionSub": "This sentence has the same meaning as: \"Me llamo Peter\".",
             "hints": "Soy\" followed by a name has the same meaning as \"Me llamo...\"",
@@ -1217,8 +1217,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_22.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l3c1_q1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_22.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/376.mp3",
             "question": "Me llamo María, ¿y usted?",
             "questionSub": "María is asking a question in an informal context.",
             "hints": "She's using \"usted\" to address the other person, so it's a formal situation.",
@@ -1241,8 +1241,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_22.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l3c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_22.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/377.mp3",
             "question": "Yo también vivo en Madrid, pero soy de Barcelona.",
             "questionSub": "María is originally from Madrid.",
             "hints": "María says \"Soy de Barcelona\", so she is from Barcelona, but she lives in Madrid.",
@@ -1253,8 +1253,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_23.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l3c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_23.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/378.mp3",
             "question": "",
             "questionSub": "",
             "hints": "I also live in Madrid, but I'm from Barcelona.",
@@ -1265,7 +1265,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct answer",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_15.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_15.webp",
             "audioUrl": "",
             "question": "Choose the correct question to ask in an informal situation.",
             "questionSub": "Vivo en Barcelona, ¿ _____",
@@ -1279,13 +1279,13 @@
         "lessonId": 4,
         "lessonTitle": "The verb \"estar\" (singular)",
         "lessonSubTitle":"Talking about different people and how they're feeling",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les13.webp",
+        "lessonImg" : "les13.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_24.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_24.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/360.mp3",
             "spanishText": "Yo estoy muy bien.",
             "englishText": "I am very well."
           },
@@ -1293,8 +1293,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_22.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l4c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_22.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/361.mp3",
             "question": "Yo estoy bien.",
             "questionSub": "Luis is describing how he's feeling.",
             "hints": "",
@@ -1304,8 +1304,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c1_q1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/362.mp3",
             "spanishText": "Y tú, ¿cómo estás?",
             "englishText": "And you, how are you?"
           },
@@ -1313,8 +1313,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_24.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_24.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/360.mp3",
             "question": "Yo  ______  muy bien..",
             "questionSub": "",
             "hints": "Yo estoy muy bien.",
@@ -1325,7 +1325,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/two_woman_hug.jpg",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/two_woman_hug.webp",
             "audioUrl": "",
             "question": "Y tú, ¿cómo  ______  ?",
             "questionSub": "",
@@ -1336,16 +1336,16 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_20.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_20.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/363.mp3",
             "spanishText": "Marta está muy contenta",
             "englishText": "Marta is very happy."
           },
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/364.mp3",
             "spanishText": "Pablo está muy contento.",
             "englishText": "Pablo is very happy.."
           },
@@ -1354,7 +1354,7 @@
             "quizType": "mcq",
             "title": "Listen and select the correct word to fill the gap.",
             "imageUrl": "",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c3_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/365.mp3",
             "question": "¿Cómo  ______  él?.",
             "questionSub": "",
             "hints": "How is he?",
@@ -1366,7 +1366,7 @@
             "quizType": "word_order",
             "title": "Arrange the words in the correct order.",
             "imageUrl": "",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c3_q1.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/366.mp3",
             "question": "",
             "questionSub": "",
             "hints": "She is a little bit tired.",
@@ -1385,9 +1385,9 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_22.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c4.mp3",
-            "question": "\bYo estoy cansada.",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_22.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/367.mp3",
+            "question": "Yo estoy cansada.",
             "questionSub": "We can also just say \"Estoy cansada\".",
             "hints": "True",
             "options": ["True", "False"],
@@ -1397,8 +1397,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_24.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c4_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_24.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/361.mp3",
             "question": "Yo estoy bien.",
             "questionSub": "Luis is describing how he's feeling.",
             "hints": "True",
@@ -1411,13 +1411,13 @@
         "lessonId": 5,
         "lessonTitle": "Learning basic phrases",
         "lessonSubTitle":"Learn basic phrases for daily life",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les14.webp",
+        "lessonImg" : "les14.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_2.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_2.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/368.mp3",
             "spanishText": "sí",
             "englishText": "yes"
           },
@@ -1426,7 +1426,7 @@
             "quizType": "mcq",
             "title": "True or false?",
             "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/couple2.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c1_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/369.Mp3",
             "question": "¿Eres de Estados Unidos? - Sí, soy de Nueva York.",
             "questionSub": "With \"sí\" we're giving a positive answer.",
             "hints": "\"Sí\" is the word for \"yes\" and it's used to confirm or accept information.",
@@ -1437,8 +1437,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_25.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c1_q1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_25.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/370.mp3",
             "question": " ______  , soy de Valencia pero vivo en Madrid.",
             "questionSub": "",
             "hints": "The correct spelling for the word \"yes\" is \"sí\".",
@@ -1449,8 +1449,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_2.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_2.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/371.mp3",
             "question": "",
             "questionSub": "",
             "hints": "Yes, I'm from Valencia but I live in Madrid.",
@@ -1460,8 +1460,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/372.mp3",
             "spanishText": "no",
             "englishText": "no"
           },
@@ -1470,7 +1470,7 @@
             "quizType": "mcq",
             "title": "True or false?",
             "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/couple2.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c2_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/373.Mp3",
             "question": "¿Vives en Santiago de Chile? - No, vivo en Buenos Aires.",
             "questionSub": "Jorge is confirming that he lives in Santiago de Chile.",
             "hints": "He's not confirming that information, he's denying it because he's using \"no\".",
@@ -1492,8 +1492,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_7.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c3.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/374.mp3",
             "spanishText": "por favor",
             "englishText": "please"
           },
@@ -1501,8 +1501,8 @@
             "type": "quiz",
             "quizType": "fill_in_the_blank_two",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_3.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_3.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/375.mp3",
             "question": "Un café,  ______  ?",
             "questionSub": "",
             "hints": "A coffee, please.",
@@ -1514,7 +1514,7 @@
             "quizType": "mcq",
             "title": "True or false?",
             "imageUrl": "",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c3_q1.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/379.mp3",
             "question": "¡Buenos días! Un café, por favor.",
             "questionSub": "Luis is politely asking for a coffee.",
             "hints": "He's using the expression \"por favor\", so he's being polite.",
@@ -1524,8 +1524,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c4.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/380.mp3",
             "spanishText": "gracias",
             "englishText": "Thanks!"
           },
@@ -1533,8 +1533,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c5.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/381.mp3",
             "question": "Gracias por el café.",
             "questionSub": "Cristina is ordering a coffee.",
             "hints": "She's not ordering it, she's thanking someone for it.",
@@ -1545,8 +1545,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c5_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/382.mp3",
             "question": "¡  ______  por el café!",
             "questionSub": "",
             "hints": "The correct spelling of the word for \"thank you\" is gracias.",
@@ -1557,8 +1557,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the letters in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_8.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c5_q1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_8.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/383.mp3",
             "question": "Gra  ______   por el café.",
             "questionSub": "",
             "hints": "Thanks for the coffee!",
@@ -1568,8 +1568,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_11.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c6.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_11.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/384.mp3",
             "spanishText": "De nada",
             "englishText": "You're welcome."
           },
@@ -1600,8 +1600,8 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c7.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/385.mp3",
             "spanishText": "Perdona.",
             "englishText": "Excuse me."
           },
@@ -1609,8 +1609,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_13.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c7_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_13.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/386.mp3",
             "question": "Hola, perdona, ¿cómo te llamas?",
             "questionSub": "We say \"perdona\" to ask for someone's attention.",
             "hints": "",
@@ -1635,14 +1635,14 @@
         "lessonId": 6,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_16.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_16.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/387.mp3",
             "question": " ______  eres María.",
             "questionSub": "",
             "hints": "The word for \"you\" is \"tú\".",
@@ -1653,8 +1653,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_18.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l1c2_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_18.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/350.mp3",
             "question": "Yo vivo en Madrid, ¿y  ______  ?",
             "questionSub": "",
             "hints": "I live in Madrid, and you?",
@@ -1677,8 +1677,8 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_18.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l2c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_18.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/353.mp3",
             "question": "",
             "questionSub": "",
             "hints": "And what's your name?",
@@ -1689,8 +1689,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_21.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l2c3_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_21.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/357.mp3",
             "question": "Vivo en Barcelona, ¿y usted? ¿Dónde vive?",
             "questionSub": "Silvia's asking someone she has a close relationship with.",
             "hints": "She's using \"usted\" so she's in a very formal situation.",
@@ -1701,8 +1701,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_21.webp",
-            "audioUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_audio/c3l3c1_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_21.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/359.mp3",
             "question": "Soy Peter.",
             "questionSub": "This sentence has the same meaning as: \"Me llamo Peter\".",
             "hints": "Soy\" followed by a name has the same meaning as \"Me llamo...\"",
@@ -1713,8 +1713,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_22.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l3c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_22.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/377.mp3",
             "question": "Yo también vivo en Madrid, pero soy de Barcelona.",
             "questionSub": "María is originally from Madrid.",
             "hints": "María says \"Soy de Barcelona\", so she is from Barcelona, but she lives in Madrid.",
@@ -1725,8 +1725,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_24.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c1_q2.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_24.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/360.mp3",
             "question": "Yo  ______  muy bien..",
             "questionSub": "",
             "hints": "Yo estoy muy bien.",
@@ -1738,7 +1738,7 @@
             "quizType": "mcq",
             "title": "Listen and select the correct word to fill the gap.",
             "imageUrl": "",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l4c3_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/365.mp3",
             "question": "¿Cómo  ______  él?.",
             "questionSub": "",
             "hints": "How is he?",
@@ -1749,8 +1749,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_25.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c1_q1.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_25.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/370.mp3",
             "question": " ______  , soy de Valencia pero vivo en Madrid.",
             "questionSub": "",
             "hints": "The correct spelling for the word \"yes\" is \"sí\".",
@@ -1762,7 +1762,7 @@
             "quizType": "mcq",
             "title": "True or false?",
             "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/couple2.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c2_q.mp3",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/373.mp3",
             "question": "¿Vives en Santiago de Chile? - No, vivo en Buenos Aires.",
             "questionSub": "Jorge is confirming that he lives in Santiago de Chile.",
             "hints": "He's not confirming that information, he's denying it because he's using \"no\".",
@@ -1773,8 +1773,8 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
-            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3l5c5_q.mp3",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
+            "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/382.mp3",
             "question": "¡  ______  por el café!",
             "questionSub": "",
             "hints": "The correct spelling of the word for \"thank you\" is gracias.",
@@ -1795,12 +1795,12 @@
         "lessonId": 1,
         "lessonTitle": "Ordering food and drink in a bar",
         "lessonSubTitle":"Learn the names of basic food and drinks and how to order",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les15.webp",
+        "lessonImg" : "les15.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c1_q.mp3",
             "spanishText": "¿Qué quieren tomar?",
             "englishText": "What are you having?"
@@ -1809,7 +1809,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c1_q.mp3",
             "question": "¿Qué quieren  ______  ?",
             "questionSub": "",
@@ -1821,7 +1821,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_19.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_19.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c1_q1.mp3",
             "question": "¿Qué quieren tomar?",
             "questionSub": "Gonzalo is ordering drinks.",
@@ -1832,7 +1832,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c1_q3.mp3",
             "spanishText": "Para mí, un café solo, por favor.",
             "englishText": "A black coffee for me, please."
@@ -1841,7 +1841,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c1_q3.mp3",
             "question": "Para mí, un  ______  solo, por favor.",
             "questionSub": "",
@@ -1864,7 +1864,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_11.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_11.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c3_q.mp3",
             "spanishText": "Y yo quiero un café con leche, ¡gracias!",
             "englishText": "And I want a coffee with milk, thanks!"
@@ -1873,7 +1873,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_11.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_11.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c3_q.mp3",
             "question": "Y yo quiero un café con  ______  , ¡gracias!",
             "questionSub": "",
@@ -1909,7 +1909,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c4_q.mp3",
             "question": "Una   ______  , por favor.",
             "questionSub": "",
@@ -1920,7 +1920,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c4_q.mp3",
             "spanishText": "Una cerveza, por favor.",
             "englishText": "A beer, please."
@@ -1929,7 +1929,7 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_20.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_20.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c4_q2.mp3",
             "question": "Una cer ______  ,porfavor.",
             "questionSub": "",
@@ -1941,7 +1941,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Look, fill in the blank",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_21.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_21.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c5.mp3",
             "question": "Mmmm... para mí, una copa de  ______ , por favor..",
             "questionSub": "",
@@ -1952,7 +1952,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_21.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_21.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c5.mp3",
             "spanishText": "Mmmm... para mí, una copa de vino, por favor.",
             "englishText": "Mmmm... for me, a glass of wine, please."
@@ -1961,7 +1961,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Look, fill in the blank",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_13.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_13.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c6.mp3",
             "question": "Para comer, un   ______ , por favor..",
             "questionSub": "",
@@ -1972,7 +1972,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_13.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_13.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c6.mp3",
             "spanishText": "Para comer, un bocadillo, por favor.",
             "englishText": "To eat, a sandwich, please."
@@ -2005,7 +2005,7 @@
             "type": "quiz",
             "quizType": "fill_in_the_blank_two",
             "title": "Look, fill in the blank",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_14.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_14.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c7_q.mp3",
             "question": "Un ___ de ___ y una cerveza, por favor.",
             "questionSub": "",
@@ -2016,7 +2016,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_14.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_14.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c7_q.mp3",
             "spanishText": "Un bocadillo de queso y una cerveza, por favor.",
             "englishText": "A cheese sandwich and a beer, please."
@@ -2028,13 +2028,13 @@
         "lessonId": 2,
         "lessonTitle": "The verb \"estar\" (plural)",
         "lessonSubTitle":"Describing how more than one person feels",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les16.webp",
+        "lessonImg" : "les16.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_15.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_15.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c1.mp3",
             "question": "Nosotras   ______  contentas.",
             "questionSub": "",
@@ -2045,7 +2045,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_15.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_15.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c1.mp3",
             "spanishText": "Nosotras estamos contentas.",
             "englishText": "We are happy."
@@ -2074,7 +2074,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_22.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_22.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c2_q.mp3",
             "question": "¿Cómo  ______  ?",
             "questionSub": "",
@@ -2085,7 +2085,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_22.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_22.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c2_q.mp3",
             "spanishText": "¿Cómo estáis?",
             "englishText": "How are you all?"
@@ -2094,7 +2094,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_22.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_22.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c3.mp3",
             "question": "¿Cómo estáis vosotros?",
             "questionSub": "We are asking a group of friends how they are doing.",
@@ -2106,7 +2106,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_16.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_16.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c4.mp3",
             "question": "Vosotras no  ______  bien.",
             "questionSub": "",
@@ -2118,7 +2118,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c5.mp3",
             "question": "Rubén y Sergio  ______  bien.",
             "questionSub": "",
@@ -2129,7 +2129,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c5.mp3",
             "spanishText": "Rubén y Sergio están estresados.",
             "englishText": "Rubén and Sergio are stressed."
@@ -2164,13 +2164,13 @@
         "lessonId": 3,
         "lessonTitle": "Counting up to five in Spanish",
         "lessonSubTitle":"Learn some numbers and how to express the plural",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les17.webp",
+        "lessonImg" : "les17.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c1.mp3",
             "question": " ______ ",
             "questionSub": "",
@@ -2181,7 +2181,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c1.mp3",
             "spanishText": "uno",
             "englishText": "One"
@@ -2190,7 +2190,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c2.mp3",
             "question": " ______ ",
             "questionSub": "",
@@ -2201,7 +2201,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c2.mp3",
             "spanishText": "dos",
             "englishText": "Two"
@@ -2222,7 +2222,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_19.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_19.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c4.mp3",
             "question": " ______ ",
             "questionSub": "",
@@ -2233,7 +2233,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_19.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_19.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c4.mp3",
             "spanishText": "tres",
             "englishText": "Three"
@@ -2254,7 +2254,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_20.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_20.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c5.mp3",
             "question": " ______ ",
             "questionSub": "",
@@ -2265,7 +2265,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_20.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_20.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c5.mp3",
             "spanishText": "cuatro",
             "englishText": "Four"
@@ -2274,7 +2274,7 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the letters in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_24.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_24.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c6.mp3",
             "question": "C ______ cervezas,porfavor.",
             "questionSub": "",
@@ -2286,7 +2286,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c7.mp3",
             "question": " ______ ",
             "questionSub": "",
@@ -2297,7 +2297,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c7.mp3",
             "spanishText": "cinco",
             "englishText": "Five"
@@ -2320,12 +2320,12 @@
         "lessonId": 4,
         "lessonTitle": "Pronouncing the sound \"c\" in Spanish",
         "lessonSubTitle":"Learn how to pronounce the letter \"c\" with other letters",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les18.webp",
+        "lessonImg" : "les18.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l4c1.mp3",
             "spanishText": "Listen the audio and pay attention to the pronunciation.",
             "englishText": "**CA** **CA**  \n Un café \n Un bocadillo"
@@ -2334,7 +2334,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_25.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_25.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l4c2.mp3",
             "question": "Buenos días, un  ______  con leche, por favor.",
             "questionSub": "",
@@ -2345,7 +2345,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l4c3.mp3",
             "spanishText": "Listen the audio and pay attention to the pronunciation.",
             "englishText": "**Co** **Co**  \n Una copa de vino"
@@ -2353,7 +2353,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l4c4.mp3",
             "spanishText": "Listen the audio and pay attention to the pronunciation.",
             "englishText": "**Cu** **Cu**  \n Cuatro"
@@ -2370,7 +2370,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_9.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_9.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l4c5.mp3",
             "question": "Cuatro bocadillos de queso, por favor.",
             "questionSub": "The \"c\" in \"cu\" sounds like the \"c\" in \"ca\".",
@@ -2381,7 +2381,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l4c6.mp3",
             "spanishText": "Listen the audio and pay attention to the pronunciation.",
             "englishText": "**Ce** **Ce**  \n Una cerveza"
@@ -2392,7 +2392,7 @@
         "lessonId": 5,
         "lessonTitle": "Developing fluency",
         "lessonSubTitle":"Speak about what you would order in a bar",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les19.webp",
+        "lessonImg" : "les19.webp",
         "contents": [
           {
             "type": "content",
@@ -2418,7 +2418,7 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_15.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_15.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l5c3.mp3",
             "question": "",
             "questionSub": "",
@@ -2430,7 +2430,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_16.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_16.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l5c4.mp3",
             "question": " ______  cervezas, por favor.",
             "questionSub": "",
@@ -2454,7 +2454,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l5c6.mp3",
             "question": "¡Tres bocadillos de queso,   ______  !",
             "questionSub": "",
@@ -2478,7 +2478,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l5c7.mp3",
             "question": "Ana, ¿una  ______  para ti también?",
             "questionSub": "",
@@ -2492,13 +2492,13 @@
         "lessonId": 6,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_19.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_19.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c1_q1.mp3",
             "question": "¿Qué quieren tomar?",
             "questionSub": "Gonzalo is ordering drinks.",
@@ -2510,7 +2510,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_11.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_11.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c3_q.mp3",
             "question": "Y yo quiero un café con  ______  , ¡gracias!",
             "questionSub": "",
@@ -2522,7 +2522,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c4_q.mp3",
             "question": "Una   ______  , por favor.",
             "questionSub": "",
@@ -2534,7 +2534,7 @@
             "type": "quiz",
             "quizType": "fill_in_the_blank_two",
             "title": "Look, fill in the blank",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_14.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_14.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l1c7_q.mp3",
             "question": "Un ___ de ___ y una cerveza, por favor.",
             "questionSub": "",
@@ -2558,7 +2558,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_16.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_16.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l2c4.mp3",
             "question": "Vosotras no  ______  bien.",
             "questionSub": "",
@@ -2570,7 +2570,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c2.mp3",
             "question": " ______ ",
             "questionSub": "",
@@ -2582,7 +2582,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_19.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_19.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c4.mp3",
             "question": " ______ ",
             "questionSub": "",
@@ -2594,7 +2594,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l3c7.mp3",
             "question": " ______ ",
             "questionSub": "",
@@ -2606,7 +2606,7 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_15.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_15.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l5c3.mp3",
             "question": "",
             "questionSub": "",
@@ -2618,7 +2618,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4l5c6.mp3",
             "question": "¡Tres bocadillos de queso,   ______  !",
             "questionSub": "",
@@ -2640,12 +2640,12 @@
         "lessonId": 1,
         "lessonTitle": "The verb \"ser\" (singular)",
         "lessonSubTitle":"Learn the present tense of the verb \"ser\" in the singular",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les20.webp",
+        "lessonImg" : "les20.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_16.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_16.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c5l1c1.mp3",
             "spanishText": "yo soy",
             "englishText": "I am \n\nExample \nYo soy Elena.\nI'm Elena."
@@ -2686,7 +2686,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_10.webp",
             "audioUrl": "",
             "question": "Yo  ______  estadounidense.",
             "questionSub": "",
@@ -2697,7 +2697,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_2.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_2.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c3.mp3",
             "spanishText": "ella es",
             "englishText": "she is \n\nExample \nElla es Luciana, ella es de Colombia.\nShe's Luciana, she's from Colombia."
@@ -2705,7 +2705,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c4.mp3",
             "spanishText": "él es",
             "englishText": "he is \n\nExample \nÉl es de Turquía. Él es turco.\nHe is from Turkey. He is Turkish."
@@ -2744,13 +2744,13 @@
         "lessonId": 2,
         "lessonTitle": "Describing different people",
         "lessonSubTitle":"Learn different adjectives to describe and talk about people",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les21.webp",
+        "lessonImg" : "les21.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_25.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_25.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c6.mp3",
             "question": "Yo soy muy  ______ ",
             "questionSub": "",
@@ -2761,7 +2761,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_25.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_25.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c6.mp3",
             "spanishText": "Yo soy muy alto.",
             "englishText": "I'm very tall."
@@ -2782,7 +2782,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_5.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_5.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c8.mp3",
             "question": "Mi amigo Raúl es un poco  ______ ",
             "questionSub": "",
@@ -2801,7 +2801,7 @@
           {
             "type": "content",
             "title": "Read and listen to the words.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_11.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_11.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c10.mp3",
             "spanishText": "rubio / rubia",
             "englishText": "blond \n\nExample\n¿Cómo se llama el hombre rubio?\nWhat's the name of the blond man?"
@@ -2810,7 +2810,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
             "audioUrl": "",
             "question": "¿Cómo se llama el hombre  ______ ",
             "questionSub": "",
@@ -2822,7 +2822,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c11.mp3",
             "question": "¿Esa chica  ______  se llama Claudia o Elena?",
             "questionSub": "",
@@ -2833,7 +2833,7 @@
           {
             "type": "content",
             "title": "Read and listen to the words.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_2.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_2.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c12.mp3",
             "spanishText": "moreno / morena",
             "englishText": "dark-haired \n\nExample\nLa chica morena es brasileña.\nThe dark-haired young woman is Brazilian."
@@ -2842,7 +2842,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c13.mp3",
             "question": "¡Qué  ______  es Alberto!",
             "questionSub": "",
@@ -2853,7 +2853,7 @@
           {
             "type": "content",
             "title": "Read and listen to the words.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c13.mp3",
             "spanishText": "¡Qué guapo es Alberto!",
             "englishText": "How handsome Alberto is!"
@@ -2877,7 +2877,7 @@
         "lessonId": 3,
         "lessonTitle": "Introduction to the gender of nouns",
         "lessonSubTitle":"Discover how nouns change based on the gender of the word",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les22.webp",
+        "lessonImg" : "les22.webp",
         "contents": [
           {
             "type": "content",
@@ -2981,7 +2981,7 @@
         "lessonId": 4,
         "lessonTitle": "The verb \"ser\" (plural)",
         "lessonSubTitle":"Learn the present tense of the verb \"ser\" in the plural",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les23.webp",
+        "lessonImg" : "les23.webp",
         "contents": [
           {
             "type": "content",
@@ -3105,12 +3105,12 @@
         "lessonId": 5,
         "lessonTitle": "Referring to different people",
         "lessonSubTitle":"Learn how to refer to different types of people",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les24.webp",
+        "lessonImg" : "les24.webp",
         "contents": [
           {
             "type": "content",
             "title": "Read and listen to the words.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_7.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_7.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c28.mp3",
             "spanishText": "la mujer",
             "englishText": "the woman\n\nExample\nLa mujer es guapa.\nThe woman is beautiful."
@@ -3118,7 +3118,7 @@
           {
             "type": "content",
             "title": "Read and listen to the words.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c29.mp3",
             "spanishText": "el hombre",
             "englishText": "the man\n\nExample\nEl hombre es alto.\nThe man is tall."
@@ -3127,7 +3127,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_11.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_11.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c29.mp3",
             "question": "el ______ ",
             "questionSub": "",
@@ -3139,7 +3139,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_4.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_4.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c30.mp3",
             "question": "la mujer",
             "questionSub": "This means \"woman\".",
@@ -3150,7 +3150,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_21.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_21.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c31.mp3",
             "spanishText": "la chica",
             "englishText": "the girl\n\nExample\nLa chica es simpática.\nThe girl is nice."
@@ -3158,7 +3158,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c32.mp3",
             "spanishText": "el chico",
             "englishText": "the boy\n\nExample\nEl chico es joven.\nThe boy is young."
@@ -3167,7 +3167,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_21.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_21.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c31.mp3",
             "question": "",
             "questionSub": "",
@@ -3209,7 +3209,7 @@
         "lessonId": 6,
         "lessonTitle": "Gender and number",
         "lessonSubTitle":"Learn how words change depending on gender and number",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les26.webp",
+        "lessonImg" : "les26.webp",
         "contents": [
           {
             "type": "content",
@@ -3305,7 +3305,7 @@
         "lessonId": 7,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
@@ -3347,7 +3347,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c11.mp3",
             "question": "¿Esa chica  ______  se llama Claudia o Elena?",
             "questionSub": "",
@@ -3395,7 +3395,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_11.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_11.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c29.mp3",
             "question": "el ______ ",
             "questionSub": "",
@@ -3407,7 +3407,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_21.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_21.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c31.mp3",
             "question": "",
             "questionSub": "",
@@ -3441,12 +3441,12 @@
         "lessonId": 1,
         "lessonTitle": "Talking about the languages you speak",
         "lessonSubTitle":"Tell other people what languages you speak and understand",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les27.webp",
+        "lessonImg" : "les27.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_16.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_16.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c45.mp3",
             "spanishText": "Hablo español.",
             "englishText": "I speak Spanish."
@@ -3466,7 +3466,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c47.mp3",
             "spanishText": "Hablo portugués.",
             "englishText": "I speak Portuguese."
@@ -3475,7 +3475,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_7.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_7.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c48.mp3",
             "question": "Hablo español y portugués.",
             "questionSub": "Amanda speaks Spanish and Portuguese.",
@@ -3530,7 +3530,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c52.mp3",
             "spanishText": "Ella habla inglés.",
             "englishText": "She speaks English."
@@ -3538,7 +3538,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_9.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_9.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c53.mp3",
             "spanishText": "Él habla español.",
             "englishText": "He speaks Spanish."
@@ -3547,7 +3547,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "",
             "question": "Aleksander  ______  polaco.",
             "questionSub": "",
@@ -3561,7 +3561,7 @@
         "lessonId": 2,
         "lessonTitle": "Saying which languages you speak",
         "lessonSubTitle":"Talk about the languages that you study and speak",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les28.webp",
+        "lessonImg" : "les28.webp",
         "contents": [
           {
             "type": "content",
@@ -3598,7 +3598,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c55.mp3",
             "spanishText": "hablo...",
             "englishText": "I speak...\n\nExample\nYo hablo francés.\nI speak French."
@@ -3650,7 +3650,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c59.mp3",
             "spanishText": "habla...",
             "englishText": "he speaks... / she speaks...\n\nExample\nMi amiga Lucía habla inglés muy bien.\nMy friend Lucía speaks English very well."
@@ -3673,12 +3673,12 @@
         "lessonId": 3,
         "lessonTitle": "Learning verbs related to languages",
         "lessonSubTitle":"Discover more words to talk about language learning",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les29.webp",
+        "lessonImg" : "les29.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c61.mp3",
             "spanishText": "leo, lees, lee...",
             "englishText": "I read, you read, he/she reads\n\nExample\nYo leo libros en inglés.\nI read books in English."
@@ -3722,7 +3722,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_7.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_7.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c64.mp3",
             "spanishText": "comprendo, comprendes, comprende...",
             "englishText": "I understand, you understand, he/she understands\n\nExample\n¿Tú comprendes esta lección?\nDo you understand this lesson?"
@@ -3781,7 +3781,7 @@
         "lessonId": 4,
         "lessonTitle": "Learning the plural conjugation",
         "lessonSubTitle":"Discover how to conjugate -ar verbs in the present plural",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les30.webp",
+        "lessonImg" : "les30.webp",
         "contents": [
           {
             "type": "content",
@@ -3818,7 +3818,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c71.mp3",
             "spanishText": "(vosotros / vosotras) practicáis...",
             "englishText": "you (plural) practise\n\nExample\n¿Practicáis español todos los días?\nDo you practise Spanish every day?"
@@ -3865,7 +3865,7 @@
         "lessonId": 5,
         "lessonTitle": "Regular verbs",
         "lessonSubTitle":"Learn the \"presente simple\" of regular verbs",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les31.webp",
+        "lessonImg" : "les31.webp",
         "contents": [
           {
             "type": "content",
@@ -3973,13 +3973,13 @@
         "lessonId": 7,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_7.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_7.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c48.mp3",
             "question": "Hablo español y portugués.",
             "questionSub": "Amanda speaks Spanish and Portuguese.",
@@ -4003,7 +4003,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "",
             "question": "Aleksander  ______  polaco.",
             "questionSub": "",
@@ -4108,12 +4108,12 @@
         "lessonId": 1,
         "lessonTitle": "Describing what you do",
         "lessonSubTitle":"Learn different professions and how to talk about yours",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les33.webp",
+        "lessonImg" : "les33.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c78.mp3",
             "spanishText": "¿En qué trabajas?",
             "englishText": "What is your job?"
@@ -4133,7 +4133,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c80.mp3",
             "spanishText": "el profesor / la profesora",
             "englishText": "the teacher \n\n\nExample\n\nYo soy profesora de inglés.\n\nI'm an English teacher."
@@ -4221,7 +4221,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_11.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_11.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/c88.mp3",
             "spanishText": "el estudiante / la estudiante",
             "englishText": "the student\n\n\nExample\n\nCristina es estudiante de francés.\n\nCristina is a French student."
@@ -4244,7 +4244,7 @@
         "lessonId": 2,
         "lessonTitle": "Talking about workplaces",
         "lessonSubTitle":"Learn different professions and how to talk about yours",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les34.webp",
+        "lessonImg" : "les34.webp",
         "contents": [
           {
             "type": "content",
@@ -4352,7 +4352,7 @@
         "lessonId": 3,
         "lessonTitle": "Developing fluency",
         "lessonSubTitle":"Practise your conversation skills",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les35.webp",
+        "lessonImg" : "les35.webp",
         "contents": [
           {
             "type": "quiz",
@@ -4408,7 +4408,7 @@
         "lessonId": 4,
         "lessonTitle": "Definite articles",
         "lessonSubTitle":"Learn words to refer to specific things or things we know",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les36.webp",
+        "lessonImg" : "les36.webp",
         "contents": [
           {
             "type": "content",
@@ -4536,7 +4536,7 @@
         "lessonId": 5,
         "lessonTitle": "Indefinite articles",
         "lessonSubTitle":"Learn words to refer to general or unknown things",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les37.webp",
+        "lessonImg" : "les37.webp",
         "contents": [
           {
             "type": "content",
@@ -4656,7 +4656,7 @@
         "lessonId": 6,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
@@ -4803,7 +4803,7 @@
         "lessonId": 1,
         "lessonTitle": "Talking about relatives",
         "lessonSubTitle":"Learn words to talk about different people in your relatives",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les38.webp",
+        "lessonImg" : "les38.webp",
         "contents": [
           {
             "type": "content",
@@ -4816,7 +4816,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_9.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_9.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/114.mp3",
             "spanishText": "el padre",
             "englishText": "the father\n\nExample\n\n\nMi padre tiene una hermana.\n\nMy father has one sister."
@@ -4833,7 +4833,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_9.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_9.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/114.mp3",
             "question": "el padre",
             "questionSub": "This means \"the mother\".",
@@ -4893,7 +4893,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Complete the sentence.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/118.mp3",
             "question": "Mi  ______  vive en Málaga.",
             "questionSub": "",
@@ -4955,7 +4955,7 @@
         "lessonId": 2,
         "lessonTitle": "Possessive Adjectives",
         "lessonSubTitle":"Use words like \"mi, tu, su...\" to express possession",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les39.webp",
+        "lessonImg" : "les39.webp",
         "contents": [
           {
             "type": "content",
@@ -5063,7 +5063,7 @@
         "lessonId": 3,
         "lessonTitle": "Counting to 10 in Spanish",
         "lessonSubTitle":"Learn the numbers from 0 to 10 in Spanish",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les40.webp",
+        "lessonImg" : "les40.webp",
         "contents": [
           {
             "type": "content",
@@ -5171,7 +5171,7 @@
         "lessonId": 4,
         "lessonTitle": "Tener (to have)",
         "lessonSubTitle":"Learn and practise the present simple of \"tener\" (to have)",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les41.webp",
+        "lessonImg" : "les41.webp",
         "contents": [
           {
             "type": "content",
@@ -5295,13 +5295,13 @@
         "lessonId": 5,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
             "quizType": "mcq",
             "title": "True or false?",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_9.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_9.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/114.mp3",
             "question": "el padre",
             "questionSub": "This means \"the mother\".",
@@ -5430,7 +5430,7 @@
         "lessonId": 1,
         "lessonTitle": "Talking about everyday objects",
         "lessonSubTitle":"Name ordinary objects such as a bag or glasses",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les43.webp",
+        "lessonImg" : "les43.webp",
         "contents": [
           {
             "type": "content",
@@ -5460,7 +5460,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_22.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_22.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/151.mp3",
             "question": "¡No encuentro mi  ______ ! ¿Dónde está?",
             "questionSub": "",
@@ -5536,7 +5536,7 @@
             "type": "quiz",
             "quizType": "fill_in_the_blank_two",
             "title": "Select the languages in the order you hear them.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/156.mp3",
             "question": "¿Llevas el ___ en el ___ ?",
             "hints": "Do you carry the computer in your bag?",
@@ -5609,7 +5609,7 @@
         "lessonId": 2,
         "lessonTitle": "Talking about colours",
         "lessonSubTitle":"Learn different colours and how to change words accordingly",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les44.webp",
+        "lessonImg" : "les44.webp",
         "contents": [
           {
             "type": "content",
@@ -5630,7 +5630,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_16.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_16.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/163.mp3",
             "spanishText": "azul",
             "englishText": "blue\n\nExample\n\n\nMarta tiene los ojos azules.\n\nMarta has blue eyes."
@@ -5753,7 +5753,7 @@
         "lessonId": 3,
         "lessonTitle": "Possessive Pronouns",
         "lessonSubTitle":"Talk about belongings using possessive pronouns",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les45.webp",
+        "lessonImg" : "les45.webp",
         "contents": [
           {
             "type": "content",
@@ -5865,7 +5865,7 @@
         "lessonId": 4,
         "lessonTitle": "Demonstrative adjectives",
         "lessonSubTitle":"Talk about and refer to people and things nearby",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les46.webp",
+        "lessonImg" : "les46.webp",
         "contents": [
           {
             "type": "content",
@@ -6005,7 +6005,7 @@
         "lessonId": 5,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
@@ -6140,12 +6140,12 @@
         "lessonId": 1,
         "lessonTitle": "Talking about places in a town",
         "lessonSubTitle":"Learn some words to refer to places in a town",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les49.webp",
+        "lessonImg" : "les49.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/191.mp3",
             "spanishText": "Normalmente tomo café en una cafetería.",
             "englishText": "I usually have coffee in a café."
@@ -6166,7 +6166,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/191.mp3",
             "question": "Normalmente tomo café en una  ______ .",
             "questionSub": "",
@@ -6177,7 +6177,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/193.mp3",
             "spanishText": "Compro en el mercado.",
             "englishText": "I shop in the market."
@@ -6186,7 +6186,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/193.mp3",
             "question": "Compro en el  ______ .",
             "questionSub": "",
@@ -6197,7 +6197,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/194.mp3",
             "spanishText": "No compro en internet, compro en tiendas de mi barrio.",
             "englishText": "I don't buy online, I buy from shops in my neighbourhood."
@@ -6218,7 +6218,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/194.mp3",
             "question": "No compro en internet, compro en ______ de mi barrio.",
             "questionSub": "",
@@ -6244,12 +6244,12 @@
         "lessonId": 2,
         "lessonTitle": "Expanding the knowledge of places around town",
         "lessonSubTitle":"Learn more words to refer to places in a town",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les50.webp",
+        "lessonImg" : "les50.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_22.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_22.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/197.mp3",
             "spanishText": "¿Dónde hay una parada de autobús?",
             "englishText": "Where is there a bus stop?"
@@ -6281,7 +6281,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_21.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_21.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/200.mp3",
             "spanishText": "La estación de tren está en el centro.",
             "englishText": "The train station is in the city centre."
@@ -6320,7 +6320,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/203.mp3",
             "spanishText": "¿Dónde está el hospital?",
             "englishText": "Where is the hospital?"
@@ -6367,7 +6367,7 @@
         "lessonId": 3,
         "lessonTitle": "Asking about places in a city",
         "lessonSubTitle":"Listen a audio where Susan asks about places in a city",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les51.webp",
+        "lessonImg" : "les51.webp",
         "contents": [
           {
             "type": "content",
@@ -6417,7 +6417,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_13.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_13.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/209.mp3",
             "question": "En esta calle hay una ______ .",
             "questionSub": "",
@@ -6453,7 +6453,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_20.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_20.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/212.mp3",
             "question": "Hay una estación de metro ______ .",
             "questionSub": "",
@@ -6467,12 +6467,12 @@
         "lessonId": 4,
         "lessonTitle": "Describing existence with \"hay\"",
         "lessonSubTitle":"Talk about the existence of things, people and places",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les52.webp",
+        "lessonImg" : "les52.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/213.mp3",
             "spanishText": "En mi barrio hay un hospital.",
             "englishText": "There is a hospital in my neighbourhood."
@@ -6493,7 +6493,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/213.mp3",
             "question": "En mi barrio ______ un hospital.",
             "questionSub": "",
@@ -6524,7 +6524,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/216.mp3",
             "spanishText": "En esta calle no hay muchas cafeterías.",
             "englishText": "There are not many cafés on this street."
@@ -6552,7 +6552,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_19.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_19.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/217.mp3",
             "spanishText": "En esta calle no hay muchas cafeterías.",
             "englishText": "There are no train stations in this neighbourhood."
@@ -6580,7 +6580,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_20.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_20.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/219.mp3",
             "spanishText": "¿Hay un hospital por aquí?",
             "englishText": "Is there a hospital around here?"
@@ -6603,7 +6603,7 @@
         "lessonId": 5,
         "lessonTitle": "Describing your neighbourhood",
         "lessonSubTitle":"Read a text and discover Carolina's neighbourhood",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les53.webp",
+        "lessonImg" : "les53.webp",
         "contents": [
           {
             "type": "content",
@@ -6629,7 +6629,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_17.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_17.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/222.mp3",
             "question": "Me encanta mi barrio porque ______ muchas cosas.",
             "questionSub": "",
@@ -6703,7 +6703,7 @@
         "lessonId": 6,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
@@ -6721,7 +6721,7 @@
             "type": "quiz",
             "quizType": "mcq",
             "title": "Choose the correct option.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/193.mp3",
             "question": "Compro en el  ______ .",
             "questionSub": "",
@@ -6837,12 +6837,12 @@
         "lessonId": 1,
         "lessonTitle": "Giving directions in Spanish",
         "lessonSubTitle":"Ask for and give directions in Spanish",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les55.webp",
+        "lessonImg" : "les55.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_4.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_4.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/225.mp3",
             "spanishText": "¿Dónde está la estación?",
             "englishText": "Where is the station?"
@@ -6874,7 +6874,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_8.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_8.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/227.mp3",
             "spanishText": "sigue recto",
             "englishText": "go straight ahead"
@@ -6894,7 +6894,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_24.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_24.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/229.mp3",
             "spanishText": "cruza la calle",
             "englishText": "cross the street"
@@ -6915,7 +6915,7 @@
             "type": "quiz",
             "quizType": "fill_in_the_blank_two",
             "title": "Select the languages in the order you hear them.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_22.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_22.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/231.mp3",
             "question": "Sigue ___ y ___ la calle.",
             "questionSub": "",
@@ -6926,7 +6926,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_13.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_13.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/232.mp3",
             "spanishText": "gira a la derecha",
             "englishText": "turn right"
@@ -6958,7 +6958,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_15.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_15.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/234.mp3",
             "spanishText": "gira a la izquierda",
             "englishText": "turn left"
@@ -6966,7 +6966,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_1.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_1.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/235.mp3",
             "spanishText": "al final de la calle",
             "englishText": "at the end of the street"
@@ -6977,12 +6977,12 @@
         "lessonId": 2,
         "lessonTitle": "Specifying locations in a city",
         "lessonSubTitle":"Use adverbs to talk about location",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les56.webp",
+        "lessonImg" : "les56.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/236.mp3",
             "spanishText": "La cafetería está cerca del hospital.",
             "englishText": "The café is close to the hospital."
@@ -7014,7 +7014,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_19.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_19.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/239.mp3",
             "spanishText": "El mercado está lejos de la estación.",
             "englishText": "The market is far from the station."
@@ -7046,7 +7046,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_21.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_21.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/242.mp3",
             "spanishText": "La cafetería está enfrente del mercado.",
             "englishText": "The café is in front of the market."
@@ -7066,7 +7066,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/243.mp3",
             "spanishText": "La tienda está al lado de la estación.",
             "englishText": "The shop is next to the station."
@@ -7089,12 +7089,12 @@
         "lessonId": 3,
         "lessonTitle": "Discovering \"hay\" and \"está\"",
         "lessonSubTitle":"Learn how to use \"hay\" and \"está\" to talk about places",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les57.webp",
+        "lessonImg" : "les57.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_7.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_7.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/245.mp3",
             "spanishText": "En mi barrio hay muchas tiendas.",
             "englishText": "There are many shops in my neighbourhood."
@@ -7126,7 +7126,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_22.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_22.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/248.mp3",
             "spanishText": "¿Dónde está el hospital?",
             "englishText": "Where is the hospital?"
@@ -7161,7 +7161,7 @@
         "lessonId": 4,
         "lessonTitle": "Practising your reading skills",
         "lessonSubTitle":"Read a text about someone's new life in Mexico City",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les58.webp",
+        "lessonImg" : "les58.webp",
         "contents": [
           {
             "type": "content",
@@ -7206,7 +7206,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_12.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_12.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/254.mp3",
             "spanishText": "Tomo un café y una torta de jamón.",
             "englishText": "I have a coffee and a ham sandwich."
@@ -7215,7 +7215,7 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/255.mp3",
             "question": "",
             "questionSub": "",
@@ -7226,7 +7226,7 @@
           {
             "type": "content",
             "title": "Read the text.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_20.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_20.webp",
             "audioUrl": "",
             "spanishText": "Hola, Luis:",
             "englishText": "¿Qué tal? Yo estoy muy contenta porque ahora vivo en Ciudad de México con mi hermana. Es una ciudad muy grande y muy bella. Vivimos en el centro, y hay muchas cafeterías, restaurantes y mercados cerca. Mi mercado favorito es el Mercado de San Juan. Está enfrente de nuestra casa.\n\nTrabajo en una escuela en el centro, donde soy profesora de español. Hay una cafetería muy buena al lado de la escuela. Se llama Cafebrería el Péndulo. El camarero se llama Antonio. Es mi amigo y es muy simpático, y muy guapo también. Voy allí todos los días después de trabajar. Tomo un café y una torta de jamón (¡mi favorita!), y leo un libro. ¡Hay muchos libros en esta cafetería!\n\n¡Hasta pronto!\n\nLaura"
@@ -7261,7 +7261,7 @@
         "lessonId": 5,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
@@ -7363,7 +7363,7 @@
             "type": "quiz",
             "quizType": "word_order",
             "title": "Put the words in order.",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/255.mp3",
             "question": "",
             "questionSub": "",
@@ -7396,12 +7396,12 @@
         "lessonId": 1,
         "lessonTitle": "Talking about food",
         "lessonSubTitle":"Learn the names of some basic foods",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les60.webp",
+        "lessonImg" : "les60.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_14.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_14.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/256.mp3",
             "spanishText": "Tengo la lista de la compra en mi móvil.",
             "englishText": "I have the shopping list on my phone."
@@ -7421,7 +7421,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/258.mp3",
             "spanishText": "No como carne.",
             "englishText": "I don't eat meat."
@@ -7429,7 +7429,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_22.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_22.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/259.mp3",
             "spanishText": "Es importante comer mucha fruta.",
             "englishText": "It's important to eat lots of fruit."
@@ -7449,7 +7449,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_16.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_16.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/261.mp3",
             "spanishText": "Compro pan para hacer un bocadillo.",
             "englishText": "I buy bread to make a sandwich."
@@ -7469,7 +7469,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_18.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_18.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/262.mp3",
             "spanishText": "El pescado está delicioso.",
             "englishText": "The fish is delicious."
@@ -7501,7 +7501,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_23.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_23.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/264.mp3",
             "spanishText": "¡Me encantan las verduras!",
             "englishText": "I love vegetables!"
@@ -7512,12 +7512,12 @@
         "lessonId": 2,
         "lessonTitle": "Going grocery shopping",
         "lessonSubTitle":"Learn the names of different stores where you can buy food",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les61.webp",
+        "lessonImg" : "les61.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/265.mp3",
             "spanishText": "Compro fruta en la frutería.",
             "englishText": "I buy fruit in the fruit shop."
@@ -7537,7 +7537,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_19.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_19.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/267.mp3",
             "spanishText": "Compro el pan en la panadería.",
             "englishText": "I buy bread in the bakery."
@@ -7569,7 +7569,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_11.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_11.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/270.mp3",
             "spanishText": "Compramos carne en la carnicería.",
             "englishText": "We buy meat at the butcher's."
@@ -7589,7 +7589,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_12.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_12.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/272.mp3",
             "spanishText": "Hay una pescadería en el mercado.",
             "englishText": "There's a fishmonger's in the market."
@@ -7609,7 +7609,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_13.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_13.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/274.mp3",
             "spanishText": "Compro libros en la librería.",
             "englishText": "I buy books at the bookstore."
@@ -7629,7 +7629,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_14.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_14.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/275.mp3",
             "spanishText": "Compro todo en el supermercado.",
             "englishText": "I buy everything at the supermarket."
@@ -7652,12 +7652,12 @@
         "lessonId": 3,
         "lessonTitle": "Learning more basic foods",
         "lessonSubTitle":"Learn the names of some basic foods and traditional dishes",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les62.webp",
+        "lessonImg" : "les62.webp",
         "contents": [
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_10.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_10.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/276.mp3",
             "spanishText": "Un café con leche, por favor.",
             "englishText": "A coffee with milk, please."
@@ -7677,7 +7677,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_25.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_25.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/278.mp3",
             "spanishText": "Tomo el café con azúcar.",
             "englishText": "I have my coffee with sugar."
@@ -7697,7 +7697,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/women/women_6.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitwomen/men/women_6.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/280.mp3",
             "spanishText": "La paella lleva arroz.",
             "englishText": "Paella contains rice."
@@ -7725,7 +7725,7 @@
           {
             "type": "content",
             "title": "Look, something new!",
-            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/content_img/men/men_2.webp",
+            "imageUrl": "https://mahaveerdev.pages.dev/learn_spanish/abhijitmen/men/men_2.webp",
             "audioUrl": "https://pub-e40ff3a3ad9e4f7881f0b58b31e19097.r2.dev/282.mp3",
             "spanishText": "La tortilla española lleva muchos huevos.",
             "englishText": "Spanish omelette has lots of eggs."
@@ -7748,7 +7748,7 @@
         "lessonId": 4,
         "lessonTitle": "Countable and Uncountable Nouns",
         "lessonSubTitle":"Talk about foods and quantities",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les63.webp",
+        "lessonImg" : "les63.webp",
         "contents": [
           {
             "type": "content",
@@ -7872,7 +7872,7 @@
         "lessonId": 5,
         "lessonTitle": "Quantifiers",
         "lessonSubTitle":"Learn to express quantity",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/les64.webp",
+        "lessonImg" : "les64.webp",
         "contents": [
           {
             "type": "content",
@@ -7988,7 +7988,7 @@
         "lessonId": 6,
         "lessonTitle": "Checkpoint",
         "lessonSubTitle":"Put your skills to the test",
-        "lessonImg" : "https://mahaveerdev.pages.dev/learn_spanish/lesson_img/checkpoint.webp",
+        "lessonImg" : "checkpoint.webp",
         "contents": [
           {
             "type": "quiz",
